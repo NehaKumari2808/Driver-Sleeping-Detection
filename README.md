@@ -10,4 +10,4 @@ Approximately 20% of the road accidents occurs due to the drowsiness of the driv
 It can quickly detect drowsiness and can distinguish between normal and drowsy eyes.
 
 # Applications:
-Can be used by riders who tend to drive
+Can be used by riders who tends to drive for a longer period of time and can also potentially save a lot of lives from accidents.
